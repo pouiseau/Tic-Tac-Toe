@@ -28,9 +28,9 @@ Play it live here: [Tic-Tac-Toe Demo](#)
 To run the project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/pouiseau/Tic-Tac-Toe.git
-   ```
+  ```bash
+  git clone https://github.com/pouiseau/Tic-Tac-Toe.git
+  ```
    
 2. **Navigate to the project directory:**
   ```bash
@@ -42,6 +42,6 @@ To run the project locally, follow these steps:
   npm install
   ```
 4. **Start the development server:**
-   ```bash
-   npm start
-   ```
+  ```bash
+  npm start
+  ```
